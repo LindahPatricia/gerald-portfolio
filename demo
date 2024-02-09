@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Website</title>
+    <style>
+        /* Style the Facebook icon (you can customize this) */
+        .facebook-icon {
+            width: 40px; /* Adjust the size as needed */
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <!-- Facebook Icon with Link -->
+    <a href="https://www.facebook.com/YourPageURL" target="_blank">
+        <img src="facebook-icon.png" alt="Facebook" class="facebook-icon">
+    </a>
+
+    <!-- Other content on your website -->
+
+</body>
+</html>
